@@ -1,16 +1,14 @@
-# flutter_tip_calculator
+# flutter-tip-calculator
 
-A new Flutter project.
+## Tech Stack: -
+- Flutter
 
-## Getting Started
+## Function: -
+Calculate the “Bill per head” based on: -
+- Total bill (in $)
+- Tip amount (in %)
+- Number of persons
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter Tip Calculator](https://user-images.githubusercontent.com/106254063/170729310-080b347f-af99-4d28-825c-63f108dd4b34.PNG)
